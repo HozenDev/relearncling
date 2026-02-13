@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b5b5cdbe61e190b228e658270bd0d7f6
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _FrontTexClean: {fileID: 2800000, guid: dffdb4378818bc5469033648c57bd0b1, type: 3}
+  - _BackTexClean: {fileID: 2800000, guid: fd76a3d85fa584e42834036916a79b6b, type: 3}
+  - _LeftTexClean: {fileID: 2800000, guid: fd5f7c807ca1ea643b0ae501ff889a70, type: 3}
+  - _RightTexClean: {fileID: 2800000, guid: 14877617607f5fb47af48fcd766426ad, type: 3}
+  - _UpTexClean: {fileID: 2800000, guid: 4e02df907356e0848a5d76021b80192a, type: 3}
+  - _DownTexClean: {fileID: 2800000, guid: b064041c87bd8fb4ba2c21aa4863127e, type: 3}
+  - _FrontTexPolluted: {fileID: 2800000, guid: 438f35e5e8d7c0c42aee582a2e2ec8e8, type: 3}
+  - _BackTexPolluted: {fileID: 2800000, guid: fb83d65eeed886840908f1c4482ffbe4, type: 3}
+  - _LeftTexPolluted: {fileID: 2800000, guid: 3a1c3cd9f2f146245be4af3a1123a528, type: 3}
+  - _RightTexPolluted: {fileID: 2800000, guid: 7f934c5ce832dfb4991233d48e1cd7e1, type: 3}
+  - _UpTexPolluted: {fileID: 2800000, guid: 53897097b1cb7644eb130bc157b99eaf, type: 3}
+  - _DownTexPolluted: {fileID: 2800000, guid: dd10416b224641b459fe04b5eb7aec37, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
